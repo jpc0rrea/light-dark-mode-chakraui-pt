@@ -1,8 +1,10 @@
-# Light ☀️ e Dark 🌙 mode com Chakra UI e Next.js
+<h1 align="center">Light ☀️ e Dark 🌙 mode com Chakra UI e Next.js</h1>
 
-## Esse projeto tem o intuito de ajudar desenvolvedores a usarem light e dark mode em seus projetos usando [Chakra UI](https://chakra-ui.com/) e [Next.js](https://nextjs.org/), além de [Typescript](https://www.typescriptlang.org/). Fiz [um post]() explicando passo a passo desse projeto.
+<p align="center">Esse projeto tem o intuito de ajudar desenvolvedores a usarem light e dark mode em seus projetos usando <a href="https://chakra-ui.com">Chakra UI</a> e <a href="https://nextjs.org/">Next.js</a>, além de <a href="https://www.typescriptlang.org/">Typescript</a>. Fiz <a href="https://jpc0rrea.dev/light-dark-mode-facil-chakra-ui-nextjs-typescript">um post</a> explicando passo a passo desse projeto. </p>
 
 # Demonstração da aplicação
+[Clicando aqui](https://light-dark-mode-chakraui-pt-4l58jrokx-jpc0rrea.vercel.app/) você será levado para a aplicação no ar.
+
 ![switch-theme-between-pages-gif.webp](https://cdn.hashnode.com/res/hashnode/image/upload/v1637848060603/SX1-YFpX8.webp)
 
 # 🚀 Rodar o projeto em sua máquina
