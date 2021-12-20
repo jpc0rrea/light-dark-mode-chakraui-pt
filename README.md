@@ -11,7 +11,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/jpc0rrea/light-dark-mode-chakraui-pt>
+$ git clone https://github.com/jpc0rrea/light-dark-mode-chakraui-pt
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd light-dark-mode-chakraui-pt
